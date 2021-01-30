@@ -21,6 +21,14 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
